@@ -95,3 +95,9 @@ To create agents (the help desk workers) navigate back to the "Agents" tab and s
 Next to the username click "Set Password" set the password. Uncheck the "Send the agent a password reset email" and "Require password change at next login" options:
 
 ![Screenshot_42](https://github.com/user-attachments/assets/d2bb1d8a-c39f-4f66-9b7a-9d97a725c3fc)
+
+On the "Access" tab for this user select the "SysAdmin" department and the "Supreme Admin" role created earlier:
+
+![Screenshot_43](https://github.com/user-attachments/assets/90201587-638a-4ce3-8dcf-84a630e9f21a)
+
+Under the "Teams" tab select "Online Banking" for this agent:
