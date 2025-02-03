@@ -15,7 +15,7 @@ This project involves setting up and configuring osTicket to function efficientl
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
-
+- osTicket
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
