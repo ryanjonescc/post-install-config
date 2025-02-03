@@ -123,3 +123,11 @@ Configuring an SLA plan navigate back to Admin Panel> Manage> SLA create three S
 
 ![Screenshot_48](https://github.com/user-attachments/assets/181429ae-7004-4f5c-9861-16b0c38cd269)
 
+Under the same "Manage" tab go to the "Help Topics" tab and create four help topics named, "Business Critical Outage", "Personal Computer Issues", "Equipment Request", and "Password Reset" all with the same settings:
+
+
+![Screenshot_49](https://github.com/user-attachments/assets/c8379644-9a51-4b7f-a8ca-31a62ea1e36a)
+
+
+osTicket Setup Complete!
+We've successfully set up multiple agents along with their departments, roles, and permissions. As well as, configured SLAs (Service Level Agreements), help topics, and users! osTicket is now setup for the next project where I will create and work different tickets using multiple agents and users!
