@@ -81,3 +81,8 @@ To set up departments, while still in the "Agents" tab, click on "Departments" l
 ![Screenshot_39](https://github.com/user-attachments/assets/15672ee9-1201-4bf8-a1b2-69fc06627b6d)
 
 <br />Now, to allow anyone to create tickets, go to the "Settings" Tab, and under "Authentication Settings" make sure that "Require registration and login to create tickets" is unchecked:
+
+
+![Screenshot_40](https://github.com/user-attachments/assets/e2c3dc2a-85ef-416c-8845-97caf38dc76b)
+
+To create agents (the help desk workers) navigate back to the "Agents" tab and select "Agents" and fill out the name, email, and username:
