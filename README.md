@@ -86,3 +86,12 @@ To set up departments, while still in the "Agents" tab, click on "Departments" l
 ![Screenshot_40](https://github.com/user-attachments/assets/e2c3dc2a-85ef-416c-8845-97caf38dc76b)
 
 To create agents (the help desk workers) navigate back to the "Agents" tab and select "Agents" and fill out the name, email, and username:
+- Jane (Dept: SysAdmins)
+- John (Dept: Support)
+
+
+![Screenshot_41](https://github.com/user-attachments/assets/9f90b409-e527-420a-875e-56d863dd41af)
+
+Next to the username click "Set Password" set the password. Uncheck the "Send the agent a password reset email" and "Require password change at next login" options:
+
+![Screenshot_42](https://github.com/user-attachments/assets/d2bb1d8a-c39f-4f66-9b7a-9d97a725c3fc)
