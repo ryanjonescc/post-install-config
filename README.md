@@ -106,3 +106,10 @@ Under the "Teams" tab select "Online Banking" for this agent:
 ![Screenshot_44](https://github.com/user-attachments/assets/d803dbd8-26c8-4c40-8002-b132349efe34)
 
 Then create one more agent (John Doe) as done previously, the only difference is in the "Access" tab select "Support" for the department:
+
+Next, to create a user (the customers) switch to the "Agent Panel" in orange in the top right> Users> Add User and put an email and name, then create. (I also made one more user with the same steps taken here): user: Karen / karen@gmail.com
+
+
+![Screenshot_45](https://github.com/user-attachments/assets/6f227e76-4806-4858-ac59-0d6beac39f59)
+
+
