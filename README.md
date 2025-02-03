@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This project involves setting up and configuring osTicket to function efficiently as a ticketing system. The process includes creating multiple agents and assigning them to specific departments, defining roles, and setting appropriate permissions. Additionally, it covers configuring Service Level Agreements (SLAs), organizing help topics, and managing user accounts.
 
 
 
