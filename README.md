@@ -101,3 +101,8 @@ On the "Access" tab for this user select the "SysAdmin" department and the "Supr
 ![Screenshot_43](https://github.com/user-attachments/assets/90201587-638a-4ce3-8dcf-84a630e9f21a)
 
 Under the "Teams" tab select "Online Banking" for this agent:
+
+
+![Screenshot_44](https://github.com/user-attachments/assets/d803dbd8-26c8-4c40-8002-b132349efe34)
+
+Then create one more agent (John Doe) as done previously, the only difference is in the "Access" tab select "Support" for the department:
