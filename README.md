@@ -68,9 +68,12 @@ This project involves setting up and configuring osTicket to function efficientl
 
   ![Screenshot_37](https://github.com/user-attachments/assets/074332f4-a49c-4b89-a53a-7560ac4c97ea)
 
-
+To set up departments, while still in the "Agents" tab, click on "Departments" located just below the "Agents" tab. Name the department "Sysadmins" and create the Department:
 
 </p>
+
+![Screenshot_38](https://github.com/user-attachments/assets/e9f7e31a-a6d7-4d32-a279-13fa546975b7)
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
